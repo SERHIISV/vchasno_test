@@ -1,0 +1,8 @@
+Period: 10
+User: feedsuser
+Password: password
+Host: '172.17.0.2'
+# Host: '127.0.0.1'
+Database: datafeeds
+Table: table_feeds
+INSERT_TO_DB: INSERT INTO {} (title, pub_date, url) VALUES ('{}', {}, '{}')

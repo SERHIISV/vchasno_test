@@ -1,0 +1,9 @@
+Feeds:
+  - http://rss.nytimes.com/services/xml/rss/nyt/Environment.xml
+  - http://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml
+  - http://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml
+  - http://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml
+  - http://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+  - http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml
+  - http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+  - http://rss.nytimes.com/services/xml/rss/nyt/World.xml
